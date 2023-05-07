@@ -1,3 +1,2 @@
 # Medium Clone
-----
-## https://academy.patika.dev/
+### https://academy.patika.dev/
